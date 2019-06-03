@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MovieDbDemo</string>
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="error_hint">Some error occurred. Please try again later.</string>
+    <string name="not_specified">Not Specified</string>
+    <string name="no_network_error">No network connection. Please switch on your wifi/mobile network and refresh the page</string>
+</resources>
